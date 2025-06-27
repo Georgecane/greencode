@@ -2,6 +2,9 @@
 
 **greencode** is a next-generation code debugger and verifier designed to help developers write correct, efficient, and reliable software. By combining powerful debugging capabilities with formal verification, greencode empowers you to catch bugs early, prove critical properties of your code, and streamline your development workflow.
 
+> **Notice:**  
+> greencode uses code from [Code of Contract](https://github.com/github/code-of-contract) for advanced program verification.
+
 ## Features
 
 - **Interactive Debugger:** Step through your code, set breakpoints, inspect variables, and analyze execution flow with an intuitive interface.
@@ -16,14 +19,10 @@
 - **Increase Confidence:** Use formal methods to prove the absence of critical bugs.
 - **Boost Productivity:** Intuitive tools help you debug and verify faster than ever.
 
-## Code of Conduct
-
-greencode uses the [GitHub Community Code of Conduct](https://docs.github.com/en/site-policy/codes-of-conduct/github-community-code-of-conduct) to foster a welcoming and respectful environment for all contributors and users.
-
 ## Getting Started
 
 1. **Installation:**  
-   Follow the instructions in the [docs/INSTALL.md](docs/INSTALL.md) to install greencode on your system.
+   See the `docs/INSTALL.md` for installation instructions.
 
 2. **Basic Usage:**  
    Launch greencode with your project to start debugging and verifying your code:
@@ -32,11 +31,11 @@ greencode uses the [GitHub Community Code of Conduct](https://docs.github.com/en
    ```
 
 3. **Guides & Documentation:**  
-   See the [Documentation](docs/) for tutorials, API references, and advanced features.
+   See the `docs/` directory for tutorials and advanced features.
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get involved.
+Contributions are welcome! Please read the `CONTRIBUTING.md` for guidelines on how to get involved.
 
 ## License
 
