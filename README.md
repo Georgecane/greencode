@@ -3,7 +3,7 @@
 **greencode** is a next-generation code debugger and verifier designed to help developers write correct, efficient, and reliable software. By combining powerful debugging capabilities with formal verification, greencode empowers you to catch bugs early, prove critical properties of your code, and streamline your development workflow.
 
 > **Notice:**  
-> greencode uses code from [Code of Contract](https://github.com/github/code-of-contract) for advanced program verification.
+> greencode uses code from [Code of Contract](CODE_OF_CONDUCT) for advanced program verification.
 
 ## Features
 
