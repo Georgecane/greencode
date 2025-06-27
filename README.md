@@ -12,6 +12,7 @@
 - **Multi-language Support:** Designed to work with modern programming languages, with an emphasis on verified and safe code.
 - **Integration Friendly:** Easily integrates with your favorite editors and build tools.
 - **Modern, User-friendly UI:** Clean, accessible user interface for seamless debugging and verification experiences.
+- **Wiki Documentation:** Comprehensive guides, tutorials, and technical reference are available via the [project's GitHub Wiki](../../wiki).
 
 ## Why greencode?
 
@@ -31,7 +32,7 @@
    ```
 
 3. **Guides & Documentation:**  
-   See the `docs/` directory for tutorials and advanced features.
+   See the `docs/` directory or visit the [Wiki](../../wiki) for tutorials and advanced features.
 
 ## Contributing
 
